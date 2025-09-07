@@ -18,7 +18,6 @@
 - 🌱 Currently working on **[PDF to JRXML Converter](https://pdf2jrxml.com)** as a side project to explore document processing
 - 🛠️ Tech stack: **React, Next.js, Node.js, TailwindCSS, Django, Spring Boot, .Net, Elasticsearch**
 - 🤝 Open to collaborating on **web applications and developer tools**
-- ⚡ Fun fact: Built automation tools that reduced manual work by 40%!
 
 ---
 
